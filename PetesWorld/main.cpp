@@ -2,7 +2,7 @@
 // date November 2022
 // author Pete Lowe
 // Nikola Prusac Manahy
-//  or here
+// Jake Reid
 // estimated time 120 minutes
 // actual time ??
 // version 1.0
